@@ -35,3 +35,6 @@
 ## 不做
 - 拍摄非真实图片来识别（例如：不能识别用户拍摄的一张动画、绘画等此类形式的动物）
 
+
+
+参见：PRD_B.md:https://github.com/mukeshilan/API_ML_AI/blob/master/PRD_B.md
