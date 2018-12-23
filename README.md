@@ -55,19 +55,19 @@
 - 架构
 ![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E5%8A%A8%E7%89%A9%E4%B8%96%E7%95%8C.png)
 
-- [image](https://mukeshilan.github.io/animal/)
+- [界面设计](https://mukeshilan.github.io/animal/)
     - 首页
-
-![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E9%A6%96%E9%A1%B5.JPG)
+    
+    ![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E9%A6%96%E9%A1%B5.JPG)
     - 识别过程
 
-![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E8%AF%86%E5%88%AB%E8%BF%87%E7%A8%8B.JPG)
+    ![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E8%AF%86%E5%88%AB%E8%BF%87%E7%A8%8B.JPG)
     - 社区
 
-![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E7%A4%BE%E5%8C%BA.JPG)
+    ![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E7%A4%BE%E5%8C%BA.JPG)
     - 我的
 
-![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E6%88%91%E7%9A%84.JPG)
+    ![image](https://raw.githubusercontent.com/mukeshilan/-Animal_recognition_picture/master/%E6%88%91%E7%9A%84.JPG)
 
 
 ## 需求列表与人工智能API加值
