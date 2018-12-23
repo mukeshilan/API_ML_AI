@@ -179,4 +179,4 @@ http://shuyantech.com/api/cndbpedia/avpair?q=**&apikey=**
 - [百度云图像识别-动物识别API](https://cloud.baidu.com/doc/IMAGERECOGNITION/ImageClassify-API.html#.3F.A6.A9.4B.62.0C.D2.FE.EB.ED.32.41.D8.9D.22.26)
 - [百科知识图谱CN-DBpedia](http://kw.fudan.edu.cn/apis/cndbpedia/)
 - [阿里云图像识别-动物识别API文档](https://market.aliyun.com/products/57124001/cmapi028672.html?spm=5176.730005-56956004-57124001.productlist.d_cmapi028672.30b53524BbreOu&innerSource=search#sku=yuncode2267200001)
-- [定制化图像识别API](http://ai.baidu.com/forum/topic/show/593353)
+- [EasyDL定制化图像识别](http://ai.baidu.com/forum/topic/show/593353)
