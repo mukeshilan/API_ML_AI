@@ -171,7 +171,7 @@ http://shuyantech.com/api/cndbpedia/avpair?q=**&apikey=**
 
 ## 将做
 - 通过录制动物的声音来确定动物的类型。
-- 收集来自反馈的覆盖不同光线、不同角度、不同背景的样本图片后，根据进行定制化图像识别提高APP识别率。[（定制化图像识别API)](http://ai.baidu.com/forum/topic/show/593353)
+- 收集来自反馈的覆盖不同光线、不同角度、不同背景的样本图片后，根据进行定制化图像识别提高APP识别率。[（EasyDL定制化图像识别)](http://ai.baidu.com/easydl/home.html)
  
    
 ## 清单
