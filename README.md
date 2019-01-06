@@ -1,8 +1,8 @@
 ## 产品需求文档
-发布日期 | 2018年11月25日
+发布日期 | 2018年12月31日
 ---|---
 主题 | 动物世界
-文件现状 | 进行中
+文件现状 | 完成
 作者 | 陈丽媛
 
 ## 目标
@@ -93,8 +93,8 @@
 
 import urllib.request
  
-# client_id 为官网获取的AK， client_secret 为官网获取的SK
-host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=QC2ltFaISK70gIN3QBbO1KUd&client_secret=RYNRSaF0fQPEx6w9ABMoMVzUsInTleIm'
+
+host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=******&client_secret=******'
 request = urllib.request.Request(host)
 request.add_header('Content-Type', 'application/json; charset=UTF-8')
 response = urllib.request.urlopen(request)
@@ -112,14 +112,13 @@ import urllib.request
 
 request_url = "https://aip.baidubce.com/rest/2.0/image-classify/v1/animal"
  
-#二进制方式打开图片文件
 f = open('C:/Users/asus/Desktop/1.jpg', 'rb')
 img = base64.b64encode(f.read())
  
 params = {"image":img,"top_num":6}
 params = urllib.parse.urlencode(params).encode(encoding='UTF8')
  
-access_token = '24.934b0693ee1af59c82c483d1e78dd0a1.2592000.1547880347.282335-15018916'
+access_token = '******'
 request_url = request_url + "?access_token=" + access_token
 request = urllib.request.Request(url=request_url, data=params)
 request.add_header('Content-Type', 'application/x-www-form-urlencoded')
